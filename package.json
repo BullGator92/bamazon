@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BullGator92/bamazon/issues"
   },
-  "homepage": "https://github.com/BullGator92/bamazon#readme"
+  "homepage": "https://github.com/BullGator92/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
 }
